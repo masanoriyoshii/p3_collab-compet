@@ -6,7 +6,7 @@
 
 ### MADDPG
 
-I tried multi-agent deep deterministic policy gradient (MADDPG), which is mentioned in this [paper](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf).
+I referred to multi-agent deep deterministic policy gradient (MADDPG), which is mentioned in this [paper](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf).
 
 >we find the centralized critic with deterministic policies works very well in practice, and
 refer to it as multi-agent deep deterministic policy gradient (MADDPG).
